@@ -2341,22 +2341,10 @@
 		"defname": "GL_ClassyDoubleBed"
 	},
 	{
-		"abr": "cleanerbasestation",
-		"price": 1917,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Cleaner"
-	},
-	{
 		"abr": "cleaningmodule",
 		"price": 1042,
 		"category": "Manufactured",
 		"defname": "WTH_CleaningModule"
-	},
-	{
-		"abr": "cleaningbot",
-		"price": 17,
-		"category": "Animal",
-		"defname": "AIRobot_Cleaner"
 	},
 	{
 		"abr": "cleaver",
@@ -4040,7 +4028,7 @@
 	},
 	{
 		"abr": "fissionmouse",
-		"price": 58,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_FissionMouse"
 	},
@@ -4052,13 +4040,13 @@
 	},
 	{
 		"abr": "fissionmouse,secondgeneration",
-		"price": 58,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_FissionMouseSecond"
 	},
 	{
 		"abr": "fissionmouse,thirdgeneration",
-		"price": 58,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_FissionMouseThird"
 	},
@@ -4981,22 +4969,10 @@
 		"defname": "VWE_MeleeWeapon_Axe"
 	},
 	{
-		"abr": "haulerbasestation",
-		"price": 2917,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Hauler"
-	},
-	{
 		"abr": "haulingmodule",
 		"price": 1525,
 		"category": "Manufactured",
 		"defname": "WTH_HaulingModule"
-	},
-	{
-		"abr": "haulingbot",
-		"price": 17,
-		"category": "Animal",
-		"defname": "AIRobot_Hauler"
 	},
 	{
 		"abr": "hay",
@@ -5288,7 +5264,7 @@
 	},
 	{
 		"abr": "humanbones",
-		"price": 1,
+		"price": 10,
 		"category": "Manufactured",
 		"defname": "HumanBones"
 	},
@@ -5306,7 +5282,7 @@
 	},
 	{
 		"abr": "humanskull",
-		"price": 1,
+		"price": 10,
 		"category": "Manufactured",
 		"defname": "HumanSkull"
 	},
@@ -12421,29 +12397,83 @@
 		"defname": "EggYutyrannusFertilized"
 	},
 	{
-		"abr": "yutyrannusmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Yutyrannus"
+		"abr": "organictea",
+		"price": 50,
+		"category": "Foods",
+		"defname": "CnT_OrganicTea"
 	},
 	{
-		"abr": "zappkannon(o)",
-		"price": 2208,
-		"category": "Ranged weapons",
-		"defname": "OGO_Gun_ZappKannon"
+		"abr": "cake!",
+		"price": 33,
+		"category": "Meals",
+		"defname": "CnT_Cake"
 	},
 	{
-		"abr": "zebra",
-		"price": 1000,
-		"category": "Animal",
-		"defname": "AEXP_Zebra"
+		"abr": "cake?",
+		"price": 108,
+		"category": "Meals",
+		"defname": "CnT_Cake-ish"
 	},
 	{
-		"abr": "zeushammer",
-		"price": 3333,
-		"category": "Melee weapons",
-		"defname": "MeleeWeapon_Zeushammer"
+		"abr": "tealeaves",
+		"price": 25,
+		"category": "Manufactured",
+		"defname": "CnT_TeaLeaves"
+	},
+	{
+		"abr": "yorkshiretea",
+		"price": 50,
+		"category": "Foods",
+		"defname": "CnT_Tea"
+	},
+	{
+		"abr": "acidicspitterimplant",
+		"price": 1333,
+		"category": "Animal Body Part",
+		"defname": "AA_AcidicSpitterImplant"
+	},
+	{
+		"abr": "advancedanimalprostheticstable",
+		"price": 2342,
+		"category": "Production",
+		"defname": "VEF_AdvancedAnimalImplantsTable"
+	},
+	{
+		"abr": "barbedquillthrowerimplant",
+		"price": 1333,
+		"category": "Animal Body Part",
+		"defname": "AA_BarbedQuillThrowerImplant"
+	},
+	{
+		"abr": "bionicbeak",
+		"price": 892,
+		"category": "Animal Body Part",
+		"defname": "AA_BionicBeak"
+	},
+	{
+		"abr": "quadteslacannonimplant",
+		"price": 1333,
+		"category": "Animal Body Part",
+		"defname": "AA_QuadTeslaCannonImplant"
+	},
+	{
+		"abr": "rangedspinneretimplant",
+		"price": 1333,
+		"category": "Animal Body Part",
+		"defname": "AA_RangedSpinneretImplant"
+	},
+	{
+		"abr": "simpleprostheticbeak",
+		"price": 218,
+		"category": "Animal Body Part",
+		"defname": "AA_ProstheticBeak"
+	},
+	{
+		"abr": "venomousspitterimplant",
+		"price": 1333,
+		"category": "Animal Body Part",
+		"defname": "AA_VenomousSpitterImplant"
 	}
 	],
-	"total": 2074
+	"total": 2083
 }
